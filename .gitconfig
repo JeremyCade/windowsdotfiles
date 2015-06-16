@@ -7,3 +7,7 @@
 	default = simple
 [core]
 	excludesfile = ~/.gitignore_global
+[merge]
+	tool = kdiff3
+[credential]
+	helper = !'C:\\Users\\jeremycade\\AppData\\Roaming\\GitCredStore\\git-credential-winstore.exe'
