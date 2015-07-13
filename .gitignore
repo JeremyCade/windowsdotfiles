@@ -21,3 +21,5 @@ _viminfo
 ntuser*
 JsDocComments.js
 Modern.Intellisense.js
+.dnx
+.v8flags*
