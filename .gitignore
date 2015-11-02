@@ -23,3 +23,6 @@ JsDocComments.js
 Modern.Intellisense.js
 .dnx
 .v8flags*
+.VirtualBox
+.docker
+.kdiff3rc
