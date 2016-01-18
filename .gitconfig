@@ -10,7 +10,7 @@
 [merge]
 	tool = kdiff3
 [credential]
-	helper = !'C:\\Users\\Jeremy Cade\\AppData\\Roaming\\GitCredStore\\git-credential-winstore.exe'
+	helper = manager
 [color]
 	ui = auto
 [color "branch"]
