@@ -3,6 +3,8 @@
 	email = me@jeremycade.com
 [alias]
 	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold cyan)<%an>%Creset' --abbrev-commit
+[alias]
+	flg = diff-tree --no-commit-id --name-only -r	
 [push]
 	default = simple
 [core]
