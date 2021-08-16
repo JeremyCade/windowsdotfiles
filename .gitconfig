@@ -1,6 +1,6 @@
 [user]
 	name = Jeremy Cade
-	email = me@jeremycade.com
+	email = jeremy@subete.com.au
 [alias]
 	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold cyan)<%an>%Creset' --abbrev-commit
 [alias]
