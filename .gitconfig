@@ -22,7 +22,6 @@
 [init]
 	defaultBranch = main
 [branch]
-	autosetupmerge = always
 	autosetuprebase = always
 [fetch]
 	prune = true
